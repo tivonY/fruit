@@ -1,0 +1,66 @@
+	
+	<div class="total_div">
+		<div class="totalback" ng-click="pagetypelist()">News List</div>
+		<div class="current_page"> <span>></span> Keyword</div>
+	</div>
+	<div class="clearfix"></div>
+	<hr>
+<!-- 新建分类 -->
+<form class="form-inline manager" name="typeForm">
+
+	<div class="group_f">
+		<label>keyword</label>
+		<div class="clearfix"></div>
+	</div>
+
+	<div class="form-group off_left">
+		<input type="text" class="form-control" ng-model="keywordval" maxLength="150" placeholder="keyword name" >
+	</div>
+
+	<button type="submit" class="btn btn-default searchmanger" ng-click="queryAllType('keyword')"></button>
+	<button type="submit" class="btn btn-default typefont" ng-click="newAtype('keyword')">+</button>
+		<span class="Required">*</span> <span class="alarminfo">( the maximum length is 150 characters.)</span>		
+	
+	<br><br>
+	<h2 class="allitem">
+		Search Results: Total <span>{{typelength}}</span> Item.
+	</h2>
+
+	<div class="managertypelist">
+
+		<div ng-show="load" class="loading_list"><img src="../images/loading.gif" width="40px" height="40px"></div>	
+		<ul  ng-if="querylength===false">
+			<li ng-repeat="tplist in typelist" title="{{tplist.Name}}">
+				<div class="one"><input ng-checked="tplist.checked" type="radio" id="keywordall{{$index}}"  name="list" /></div>
+				<div ng-class="{true: 'twohover', false: 'two'}[tplist.isActive]" ng-click="tplists(tplist)"><label for="keywordall{{$index}}">{{tplist.Name}}</label></div>
+				<div class="three" ng-click="alarmDialog('','ngdialogAlarm',tplist,'keyword')" ng-show="tplist.view" title="Delete"><img src="images/del.png" width="17px" height="17px" /></div>
+			</li>
+		</ul>
+		<div ng-if="querylength===true"><h3>the value not found!</h3></div>
+		<div class="clearfix"></div>
+	</div>
+	<Br>
+<!-- dialog -->
+<div id="ngdialogAlarm" style="display:none" class="ngdialog ngdialog-theme-default ng-scope" role="alertdialog" aria-describedby="ngdialog1-aria-describedby">
+	<div class="ngdialog-overlay"></div>
+	<div class="ngdialog-content" role="document">
+
+		<!-- content -->
+		<div id="ngdialog1-aria-describedby">
+
+			<Br>
+			<p>{{delalarmInfoTxt}}</p>
+
+		</div>
+		<div class="clearfix"></div>
+		<br>
+		<div  class="ngdialog-buttons">			
+			<button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="alarmDialog('true','ngdialogAlarm')">ok</button>
+			<button type="button" class="ngdialog-button" ng-click="alarmDialog('close','ngdialogAlarm','','')">cancel</button>
+		</div>
+		<div class="ngdialog-close" ng-click="alarmDialog('close','ngdialogAlarm','','')"></div>
+	</div>
+</div>
+
+<!-- dialog end -->		
+</form>

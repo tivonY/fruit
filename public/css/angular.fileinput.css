@@ -1,0 +1,43 @@
+.btn.uploader {
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    border: 1px dashed #CCCCCC;
+}
+
+.btn.uploader span {
+    height: 100%;
+    color: #CCCCCC;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}
+.btn.uploader.loading:before{
+    content:'';
+    background-image: url(http://www.sumingyuan.com/images/loading.gif);
+    background-color: white;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.btn.uploader input {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

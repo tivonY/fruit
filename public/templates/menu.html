@@ -1,0 +1,51 @@
+<div class="header">
+	<div class="header_content">
+		<div class="logo fl"><img src="images/cms_page_top_logoimg.png" /></div>
+		<div class="admin_info fr">
+			<div class="trigle fr"></div>			
+			<div class="admin_name fr">Admin</div>
+			<div class="admin_img fr"></div>
+		</div>		
+	</div>
+	<div class="border_line">
+		
+	</div>
+
+</div>
+
+<div class="container-fluid">
+	
+	<div class="container_left fl">
+			
+			<div class="menu_title">
+				<div class="menu_icon fl"></div>				
+				<h5>Product Management</h5>
+			</div>		
+		<ul>
+			<!-- <li  ng-click="createnewslist()" ng-class="{true: 'event_active', false: 'inactive'}[isNews]"> -->
+			<li  class="{{type=='newslist'?'event_active':'inactive'}}" ng-click="type='newslist'"> 
+				<span class="menu_active fl"></span>
+				<span class="menu_style fl"  ui-sref=".playlists"><a href="">Product List</a></span>
+			 	<!-- <span class="menu_style fl" ui-sref=".playlists"><a href="">News list</a></span> -->
+			</li>
+			<!--<li  class="{{type=='newstype'?'event_active':'inactive'}}" ng-click="type='newstype'">-->
+				<!--<span class="menu_active fl"></span>-->
+			 	<!--<span class="menu_style fl" ui-sref=".newstypemanage({type: 'newstype'})"><a href="">News Type</a></span>-->
+			<!--</li>			-->
+			<!--<li class="{{type=='keyword'?'event_active':'inactive'}}" ng-click="type='keyword'">-->
+				<!--<span class="menu_active fl"></span>-->
+			 	<!--<span class="menu_style fl" ui-sref=".keywordmanage({type: 'keyword'})"><a href="">Keyword</a></span>-->
+			<!--</li>			-->
+			<!--<li  class="{{type=='group'?'event_active':'inactive'}}" ng-click="type='group'">-->
+				<!--<span class="menu_active fl"></span>-->
+			 	<!--<span class="menu_style fl" ui-sref=".groupmanage({type: 'group'})"><a href="">Group</a></span>-->
+			<!--</li>			-->
+			
+		</ul>
+	</div>
+
+	<div class="container_right fl" id="rightCon">
+	    <div name="menuContent" ui-view=""/>
+	</div>
+
+</div>

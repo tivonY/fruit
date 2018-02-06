@@ -1,0 +1,51 @@
+<div class="total_div">
+	<div class="totalback" ng-click="pagetypelist()">News List</div>
+	<div class="current_page"> <span>></span> newsdetail</div>
+</div>
+
+<div class="clearfix"></div>
+
+
+<hr>
+	<h3>{{newsdetails.title}}</h3>
+
+		<div class="newsdetail">
+			<span class="detailgroup"><img width="15px" height="15px" src="images/type.jpg" /></span><label>NewsType:</label>&nbsp;&nbsp;
+			<span class="detailtype"> {{selectType.Name}} </span>
+		</div>
+		<div class="newsdetail">
+			<span class="detailgroup">
+				<img width="15px" height="15px" src="images/add_user.png" />
+			</span>
+			<label ng-if="tagname.length>0">Send Group:</label>&nbsp;&nbsp;
+			<span class="detail_send" ng-repeat="tag in tagname">
+				{{tag.Name}}
+			</span>	
+
+			<label ng-if="newsdetails.sendperson.length>0">Send Persons:</label>&nbsp;&nbsp;
+			<span class="detail_send" ng-repeat="person in newsdetails.sendperson">
+				{{person}}
+			</span>
+
+
+		</div>	
+		<div class="newsdetail"><label>Keyword:</label>&nbsp;&nbsp;
+			<span class="detailtype">
+				{{keywordname.Name}}
+			</span>
+		</div>		
+
+	
+	<div class="clearfix"></div>
+	<br>
+	<!-- {{detail.description}} -->
+	<div ng-bind-html="newsdetails.description | trustHtml">
+		
+	</div>
+</div>
+
+
+<hr>
+
+
+

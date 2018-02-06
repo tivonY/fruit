@@ -1,0 +1,125 @@
+
+			<div>
+				<h4>News List</h4>
+				<Br>
+				<form role="form" name="myForm" novalidate>
+					  	<div ng-repeat="val in queryalltypename">
+					  		<span>{{val.Name}}</span>
+					  	</div>					
+					<label ng-show="notempty">please enter {{val.Name}} name!</label>
+					  <div class="form-group">
+					    <input type="text" id="name" class="form-control" ng-model="confirmValue"  placeholder="type name">						
+					  </div>
+					  <div class="alarm" ng-bind="alarm"></div>
+						<div class="ngdialog-buttons">
+				            <button type="button"  class="ngdialog-button ngdialog-button-primary" ng-click="confirm(confirmValue,val)">Confirm</button>
+				            <button type="button" class="ngdialog-button ngdialog-button-secondary" ng-click="closeThisDialog('button')">Cancel</button>
+				        </div>
+		
+		        </form>
+				</div>	
+
+<!-- 			<ul class="nav nav-pills border" ng-show="checked">			  
+				  <li ng-repeat="newslist in newsTypetodo">
+				  	<a href="">{{newslist.Name}}<label ng-click="deletetype(newslist,'newslist')" class="imgPadd"><img src="images/ios7-close.png" width="16px" height="16px" /></label></a>
+				  </li>			 
+				</ul>
+
+			<br>
+			<form class="form-inline" ng-submit="newsType('keyword')">
+				<div class="group_f">
+					<label for="exampleInputName2">keyword:</label>
+				</div>
+				<div class="form-group">
+					<input type="text" class="form-control" placeholder="keyword Name" ng-model="keyword">
+				</div>			 
+					<button type="submit" class="btn btn-default typefont">+</button>
+					<label class="toggle"><input type="checkbox" ng-model="checkedkey" /> Switch</label>
+			</form>
+
+			<ul class="nav nav-pills border" ng-show="checkedkey">			  
+			  <li ng-repeat="keylist in keywordtodo">
+			  	<a href="">{{keylist.Name}}<label ng-click="deletetype(keylist,'keylist')" class="imgPadd"><img src="images/ios7-close.png" width="16px" height="16px" /></label></a>
+			  </li>			 
+			</ul>
+
+			<br>
+			<form class="form-inline" ng-submit="newsType('group')">
+				<div class="group_f">
+					<label for="exampleInputName2">Group Name:</label>
+				</div>				
+				<div class="form-group">
+					<input type="text" class="form-control"  placeholder="Group Name" ng-model="groupNm" ng-click="openConfirm()">
+				</div>			 
+					<button type="submit" class="btn btn-default typefont">+</button>
+					<label class="toggle"><input type="checkbox" ng-model="checkedgroup" /> Switch</label>
+			</form>
+			<ul class="nav nav-pills border" ng-show="checkedgroup">			  
+			  <li ng-repeat="grouplist in grouptodo">
+			  	<a href="">{{grouplist.Name}}<label ng-click="deletetype(grouplist,'grouplist')" class="imgPadd"><img src="images/ios7-close.png" width="16px" height="16px" /></label></a>
+			  </li>			 
+			</ul>
+
+			<Br>
+
+			<form class="form-inline">
+
+				<div class="group_f">
+					<label for="exampleInputName2">Group management:</label>
+				</div>				
+				
+			  <div class="form-group">				
+					<select id="groupselect" class="groupselect" ng-model="grouptodo.selectName"
+					 ng-options="grouptype.Name as grouptype.Name for grouptype in grouptodo">
+					</select>						  	
+			    <input type="text" class="form-control"  placeholder="Group Name" ng-model="groupselect">
+			    <button type="submit" class="btn btn-default" ng-click="groupMarch('groupselect')">Match</button>	 
+
+			    <input type="text" class="form-control" ng-model="memberName" placeholder="User name">
+			  </div>			 
+			  <button type="submit" class="btn btn-default typefont" ng-click="addgroupmember()">+</button>
+				<ul class="nav nav-pills border" ng-show="choiceshow">
+					<li class="navdescription">please select Matching grouping:</li>			  
+					<li ng-repeat="addUsermatch in addUserGroup" ng-click="chioceMatch(addUsermatch,'addUsertag')">		  	
+						<a href="">{{addUsermatch.Name}}</a>
+					</li>			 
+				</ul>
+				<h2 class="nav nav-pills border emptystyle" ng-show="addDataEmpty">{{addGroupMemberValue}}</h2>			  
+			</form>
+				<Br>
+				<form class="form-inline">
+					<div class="group_f">
+						<label for="exampleInputName2">Query member:</label>	
+					</div>				
+					<div class="form-group">
+						<input type="text" class="form-control"  placeholder="Group name" ng-model="grouptag">
+					</div>	
+						<button type="submit" class="btn btn-default" ng-click="groupMarch('group',querytag)">Match</button>		 
+						<button type="submit" class="btn btn-default" ng-click="queryMemberName()">query</button>
+						<ul class="nav nav-pills border" ng-show="matchshow">
+						<li class="navdescription">please select Matching grouping:</li>			  
+						  <li ng-repeat="match in matchGroup" ng-click="chioceMatch(match)">		  	
+						  	<a href="">{{match.Name}}</a>
+						  </li>			 
+						</ul>
+						<h2 class="nav nav-pills border emptystyle" ng-show="emptyshow">{{emptyvalue}}</h2>
+						<ul class="nav nav-pills border" ng-show="membershow">			  
+						  <li ng-repeat="member in groupMember">						  	
+						  	<a href="">{{member.Name}}<label ng-click="deletetype(member,'memberlist')" class="imgPadd"><img src="images/ios7-close.png" width="16px" height="16px" /></label></a>
+						  </li>			 
+						</ul>
+			</form>
+ -->
+			
+			    <script type="text/ng-template" id="modalDialogId">
+		    //     <div class="ngdialog-message">
+		    //         <h3>ngDialog modal example</h3>
+		    //         <p>The <code>.openConfirm()</code> function returns a promise that is resolved when confirmed and rejected when otherwise closed. Modal dialogs by default do not close when clicked outside the dialog or when hitting escape. This can ofcourse be overridden when opening the dialog.</p>
+		    //         <p>Confirm can take a value. Enter one here for example and see the console output: <input ng-model="confirmValue" /></p>
+		    //     </div>
+		    //     <div class="ngdialog-buttons">
+		    //         <button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="confirm(confirmValue)">Confirm</button>
+		    //         <button type="button" class="ngdialog-button ngdialog-button-secondary" ng-click="closeThisDialog('button')">Cancel</button>
+		    //     </div>
+		    // </script>
+			<!-- <div class="clearfix margin_b"></div> -->

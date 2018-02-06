@@ -1,0 +1,111 @@
+	
+	<div class="total_div">
+		<div class="totalback" ng-click="pagetypelist()">News List</div>
+		<div class="current_page"> <span>></span> News Type</div>
+	</div>
+	<div class="clearfix"></div>
+	<hr>
+
+<!-- 新建分类 -->
+<form class="form-inline manager" name="typeForm">
+
+	<div class="group_f">
+		<label>News Type</label>
+		<div class="clearfix"></div>
+		
+	</div>
+
+	<div class="form-group newstypemargin">
+		<input type="text" class="form-control"  maxLength="30" ng-model="newstypeval" placeholder="News Type Name" >
+	</div>
+
+	<button type="submit" class="btn btn-default searchmanger" ng-click="queryAllType('newstype')"></button>
+	<button type="submit" class="btn btn-default typefont" ng-click="newAtype('newstype')">+</button>
+	<span class="Required">*</span> 
+	<span class="alarminfo">( the maximum length is 30 characters.)</span>	
+	<br><br>
+	<div class="form-group group_f">
+	    <label class="" for="inputTitle">News Type Icon</label>
+	    <label class="required">*</label>
+	    <label class="alarminfo">( Please choose less than 2M file.  )</label>
+	</div>
+	<div class="clearfix"></div>
+	<div class="form-group group_f uploadheight">
+		<fileinput ng-model="icon"></fileinput>
+		
+	</div>	
+
+	<div class="clearfix"></div>
+	<br><br>
+	<h2 class="allitem">
+		Search Results: Total <span>{{typelength}}</span> Item.
+	</h2>
+
+
+
+
+
+	<div class="groupmalist">
+	<div ng-show="load" class="loading_list"><img src="../images/loading.gif" width="40px" height="40px"></div>
+		
+		<ul ng-if="querylength===false">
+			<li ng-repeat="tplist in typelist" title="{{tplist.Name}}">
+				<div class="groupico">
+					<div class="img_grouplist">
+						<img width="30px" height="30px" ng-src="{{tplist.icon}}" />
+					</div>
+					<div class="img_groupinput">
+						<input ng-checked="tplist.checked" type="radio" id="groupall{{$index}}"  name="list" />
+					</div>
+				</div>
+				<div class="groupinfo" ng-click="tplists(tplist)">
+					<label for="groupall{{$index}}">{{tplist.Name}}</label>
+				</div>
+				<div class="eidttag">
+					<!-- <span title="Edit" class="deletmembertag" ng-click="openUserdialog(tplist)" title="Delete"><img src="images/add_user.png" /></span> -->
+					<span title="Delete News Type"   ng-click="alarmDialog('','ngdialogAlarm',tplist,'newstype')" title="Delete" class="addmembertag"><img src="images/del.png" /></span>
+				</div>				
+			</li>
+		</ul>
+		<div ng-if="querylength===true"><h3>the value not found!</h3></div>
+		<div class="clearfix"></div>
+	</div>
+
+
+<!-- 	<div class="managertypelist">
+		<div ng-show="load" class="loading_list"><img src="../images/loading.gif" width="40px" height="40px"></div>
+		<ul ng-if="querylength===false">
+			<li ng-repeat="tplist in typelist" title="{{tplist.Name}}">
+				<div class="one"><input ng-checked="tplist.checked" type="radio" id="newstypeall{{$index}}"  name="list" /></div>
+				<div ng-class="{true: 'twohover', false: 'two'}[tplist.isActive]" ng-click="tplists(tplist)"><label for="newstypeall{{$index}}">{{tplist.Name}}</label></div>
+				<div class="three" ng-click="alarmDialog('','ngdialogAlarm',tplist,'newstype')" ng-show="tplist.view" title="Delete"><img src="images/del.png" width="17px" height="17px" /></div>
+			</li>
+		</ul>
+		<div ng-if="querylength===true"><h3>The value not found!</h3></div>
+		<div class="clearfix"></div>
+	</div> -->
+	<Br>
+<!-- dialog -->
+<div id="ngdialogAlarm" style="display:none" class="ngdialog ngdialog-theme-default ng-scope" role="alertdialog" aria-describedby="ngdialog1-aria-describedby">
+	<div class="ngdialog-overlay"></div>
+	<div class="ngdialog-content" role="document">
+
+		<!-- content -->
+		<div id="ngdialog1-aria-describedby">
+
+			<Br>
+			<p>{{delalarmInfoTxt}}</p>
+
+		</div>
+		<div class="clearfix"></div>
+		<br>
+		<div  class="ngdialog-buttons">			
+			<button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="alarmDialog('true','ngdialogAlarm')">ok</button>
+			<button type="button" class="ngdialog-button" ng-click="alarmDialog('close','ngdialogAlarm','','')">cancel</button>
+		</div>
+		<div class="ngdialog-close" ng-click="alarmDialog('close','ngdialogAlarm','','')"></div>
+	</div>
+</div>
+
+<!-- dialog end -->				
+</form>
