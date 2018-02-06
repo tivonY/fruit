@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d511429-05e8-428f-a2b5-b80ccaeae24d" name="Default" comment="commit ui init02">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/default/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/default/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/dahong/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/default/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/molv/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/multiimage/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/fonts/kindeditor.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/fonts/kindeditor.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/fonts/kindeditor.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/image/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/multiimage/images/select-files-zh-CN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/images/static.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/template/html/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/template/html/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/template/html/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/anchor/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/angular.fileinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.fileinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.notice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular.pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/autoheight/autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/av-core-mini-0.5.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/baidumap/baidumap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/code/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/emoticons/emoticons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/filemanager/filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/fixtoolbar/fixtoolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/flash/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/baidumap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/insertfile/insertfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/kindeditor-all-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/kindeditor-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/fonts/kindeditor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/need/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/dahong/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/default/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/skins/molv/laydate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/laydate/laydate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/lineheight/lineheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/baidumap/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/media/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/multiimage/multiimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-droplet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ngDialog-theme-default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/ngDialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ngDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/code/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/code/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/preview/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/quickformat/quickformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/themes/simple/simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/table/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/uploadbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/src/widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/kindeditor/lang/zh-TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="TestDemo.iws" />
+    <ignored path="../tblog/.idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TestDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5882354" vertical-offset="817" max-vertical-offset="1475">
+              <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43023255" vertical-offset="378" max-vertical-offset="2350">
+              <caret line="24" column="67" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="1025">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.0" vertical-offset="156" max-vertical-offset="1475">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5363" max-vertical-offset="6275">
+              <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="570">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3705" max-vertical-offset="4484">
+              <caret line="195" column="23" selection-start-line="195" selection-start-column="23" selection-end-line="226" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/our-team.html" />
+        <option value="$PROJECT_DIR$/public/project-details.html" />
+        <option value="$PROJECT_DIR$/public/projects-2.html" />
+        <option value="$PROJECT_DIR$/public/projects-3.html" />
+        <option value="$PROJECT_DIR$/public/services.html" />
+        <option value="$PROJECT_DIR$/public/404.html" />
+        <option value="$PROJECT_DIR$/public/archives.html" />
+        <option value="$PROJECT_DIR$/public/blog.html" />
+        <option value="$PROJECT_DIR$/public/blog-single.html" />
+        <option value="$PROJECT_DIR$/public/contact.html" />
+        <option value="$PROJECT_DIR$/public/grids.html" />
+        <option value="$PROJECT_DIR$/public/templates/menu.html" />
+        <option value="$PROJECT_DIR$/../../html/tpmo_423_artcore/tpmo_423_artcore/index.html" />
+        <option value="$PROJECT_DIR$/public/js/services.js" />
+        <option value="$PROJECT_DIR$/public/js/app.js" />
+        <option value="$PROJECT_DIR$/public/templates/main.html" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/js/controllers.js" />
+        <option value="$PROJECT_DIR$/public/templates/header.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tblog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ng-swipe-master/ng-swipe-master/demo" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\workspace_web\workspace\TestDemo\public\js" />
+      <recent name="C:\workspace\workspace_web\workspace\TestDemo\public\css" />
+      <recent name="C:\workspace\workspace_web\workspace\TestDemo\public" />
+      <recent name="C:\workspace\workspace_web\workspace\TestDemo\public\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tivon.tao.yang.DIR\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d511429-05e8-428f-a2b5-b80ccaeae24d" name="Default" comment="" />
+      <created>1466742145152</created>
+      <updated>1466742145152</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit init02">
+      <created>1466747715906</created>
+      <updated>1466747715906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit init config server">
+      <created>1466747808714</created>
+      <updated>1466747808714</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit ui init">
+      <created>1466748819947</created>
+      <updated>1466748819947</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit ui init02">
+      <created>1466749249490</created>
+      <updated>1466749249490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="686" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17925926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="commit init01" />
+    <MESSAGE value="commit init02" />
+    <MESSAGE value="commit init config server" />
+    <MESSAGE value="commit ui init" />
+    <MESSAGE value="commit ui init02" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit ui init02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5675" max-vertical-offset="5900">
+          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1375">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="350" max-vertical-offset="1025">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="1850">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1100">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="750">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="5900">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="975">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1000">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="725" max-vertical-offset="1100">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="1025">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="1050">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="725">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="625" max-vertical-offset="5950">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2925" max-vertical-offset="4325">
+          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="5950">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4325">
+          <caret line="116" column="84" selection-start-line="116" selection-start-column="84" selection-end-line="116" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="5950">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="650">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="650">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/our-team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705" vertical-offset="625" max-vertical-offset="5625">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/project-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14910537" vertical-offset="675" max-vertical-offset="4050">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14910537" vertical-offset="675" max-vertical-offset="6075">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049701788" vertical-offset="725" max-vertical-offset="6075">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9411764" vertical-offset="650" max-vertical-offset="5225">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941" vertical-offset="650" max-vertical-offset="3725">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/archives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941" vertical-offset="725" max-vertical-offset="5125">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941" vertical-offset="725" max-vertical-offset="7800">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941" vertical-offset="725" max-vertical-offset="6250">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/grids.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19880715" vertical-offset="650" max-vertical-offset="4950">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6023857" vertical-offset="4497" max-vertical-offset="5000">
+          <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lib/laydate/need/laydate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/angular.fileinput.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/ngDialog-theme-default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5025">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/ngDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/av-core-mini-0.5.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="537">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../html/tpmo_423_artcore/tpmo_423_artcore/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="250" max-vertical-offset="4575">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4492" max-vertical-offset="5825">
+          <caret line="195" column="23" selection-start-line="195" selection-start-column="23" selection-end-line="226" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/plugins.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="537">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="94.36685" vertical-offset="0" max-vertical-offset="178100">
+          <caret line="2034" column="0" selection-start-line="2034" selection-start-column="0" selection-end-line="2035" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5363" max-vertical-offset="6275">
+          <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5882354" vertical-offset="817" max-vertical-offset="1475">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0" vertical-offset="156" max-vertical-offset="1475">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1025">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43023255" vertical-offset="378" max-vertical-offset="2350">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
