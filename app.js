@@ -18,7 +18,7 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
-
+  
 // 加载云函数定义
 // require('./cloud');
 // 加载云引擎中间件
